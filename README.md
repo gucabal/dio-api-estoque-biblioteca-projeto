@@ -29,4 +29,4 @@ Projeto realizado para ultima entrega do BootCamp da <strong> <a href="https://w
 
 <h3>SpringBoot:</h3> O Spring Boot é um framework de código aberto em Java que busca simplificar o desenvolvimento de aplicações nessa linguagem. Como resultado, ele agiliza o processo de criação, permitindo que os desenvolvedores economizem tempo ao evitar a configuração inicial complexa.
 
-<h3>Atenção:</h3> A collection para uso das APIs está dentro da estrutura do projeto!
+<h3>Atenção:</h3> A collection para uso da API está dentro da estrutura do projeto!
