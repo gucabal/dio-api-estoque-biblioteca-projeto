@@ -1,5 +1,5 @@
 <h1>
-APIs Para estoque de uma Biblioteca</h1>
+API Para estoque de uma Biblioteca</h1>
 
 <p>Projeto que apresenta conceitos introdutórios sobre como podemos usar padrões na linguagem Java com SpringBoot. 
 Projeto realizado para ultima entrega do BootCamp da <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE.  </a></strong>
